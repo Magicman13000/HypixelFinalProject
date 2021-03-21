@@ -15,16 +15,18 @@ public class Main {
         Employee myEmployee3 = new Employee("Joy Rogers", 81774, "Manufacturing", "Engineer");
         
         System.out.print(myEmployee.getName() + " ");
-         System.out.print(myEmployee.getIdNumber() + " ");
-          System.out.print(myEmployee.getDepartment() + " ");
-           System.out.print(myEmployee.getPosition() + " \n" );
+        System.out.print(myEmployee.getIdNumber() + " ");
+        System.out.print(myEmployee.getDepartment() + " ");
+        System.out.print(myEmployee.getPosition() + " \n" );
+           
         System.out.print(myEmployee2.getName() + " ");
-         System.out.print(myEmployee2.getIdNumber() + " ");
-          System.out.print(myEmployee2.getDepartment() + " ");
-           System.out.print(myEmployee2.getPosition() + " \n" );
+        System.out.print(myEmployee2.getIdNumber() + " ");
+        System.out.print(myEmployee2.getDepartment() + " ");
+        System.out.print(myEmployee2.getPosition() + " \n" );
+           
         System.out.print(myEmployee3.getName() + " ");
-         System.out.print(myEmployee3.getIdNumber() + " ");
-          System.out.print(myEmployee3.getDepartment() + " ");
-           System.out.print(myEmployee3.getPosition() + " \n" );
+        System.out.print(myEmployee3.getIdNumber() + " ");
+        System.out.print(myEmployee3.getDepartment() + " ");
+        System.out.print(myEmployee3.getPosition() + " \n" );
     }
 }
